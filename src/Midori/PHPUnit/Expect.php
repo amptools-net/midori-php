@@ -1,10 +1,11 @@
 <?php
-
+// copyright 2009 Michael Herndon, Amptools  - see license file.
 
 
 namespace Midori\PHPUnit
 {
-require_once "Midori/Util.php";
+	require_once "Midori/Util.php";
+	
 	\PHPUnit_Util_Filter::addFileToFilter(__FILE__, 'PHPUNIT');
 	
 	/**
@@ -76,6 +77,15 @@ require_once "Midori/Util.php";
 		public function isTrue($message = null)
 		{
 			\PHPUnit_Framework_TestCase::assertTrue($this->data, $message);
+			return $this;
+		}
+		
+		public function isInstanceOf($className, $message = null)
+		{	
+			$actual = @get_class($this->data);
+			
+			\PHPUnit_Framework_TestCase::assertTrue($this->data instanceof $className, " $actual was not instance of $className ");
+			
 			return $this;
 		}
 		
