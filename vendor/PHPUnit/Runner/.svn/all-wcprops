@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner
+END
+TestSuiteLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/TestSuiteLoader.php
+END
+StandardTestSuiteLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/StandardTestSuiteLoader.php
+END
+BaseTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/BaseTestRunner.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/Version.php
+END
+TestCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/TestCollector.php
+END
+IncludePathTestCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Runner/IncludePathTestCollector.php
+END

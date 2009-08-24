@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/Error.php
+END
+TestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/TestSuite.php
+END
+SkippedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/SkippedTest.php
+END
+IncompleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/IncompleteTest.php
+END
+Assert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/Assert.php
+END
+Warning.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/Warning.php
+END
+ExpectationFailedException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/ExpectationFailedException.php
+END
+SkippedTestError.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/SkippedTestError.php
+END
+IncompleteTestError.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/IncompleteTestError.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/TestCase.php
+END
+TestResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/TestResult.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/Test.php
+END
+ComparisonFailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/ComparisonFailure.php
+END
+SelfDescribing.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/SelfDescribing.php
+END
+SkippedTestSuiteError.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/SkippedTestSuiteError.php
+END
+Constraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/Constraint.php
+END
+TestListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/TestListener.php
+END
+AssertionFailedError.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/AssertionFailedError.php
+END
+TestFailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/TestFailure.php
+END

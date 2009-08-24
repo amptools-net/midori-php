@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story
+END
+Step.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/Step.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/TestCase.php
+END
+SeleniumTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/SeleniumTestCase.php
+END
+Then.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/Then.php
+END
+When.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/When.php
+END
+ResultPrinter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/ResultPrinter.php
+END
+Scenario.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/Scenario.php
+END
+Given.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Story/Given.php
+END

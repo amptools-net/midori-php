@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/Operation
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/Operation/AllTests.php
+END
+OperationsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/Operation/OperationsTest.php
+END
+RowBasedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/Operation/RowBasedTest.php
+END

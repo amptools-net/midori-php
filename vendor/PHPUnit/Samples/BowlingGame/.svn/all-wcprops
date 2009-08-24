@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Samples/BowlingGame
+END
+BowlingGame.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Samples/BowlingGame/BowlingGame.php
+END
+BowlingGameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Samples/BowlingGame/BowlingGameTest.php
+END
+BowlingGameSpec.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Samples/BowlingGame/BowlingGameSpec.php
+END

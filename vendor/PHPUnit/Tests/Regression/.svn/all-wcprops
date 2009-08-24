@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Regression
+END
+Issue684Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Regression/Issue684Test.php
+END
+Issue578Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Regression/Issue578Test.php
+END
+684.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Regression/684.phpt
+END
+578.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Regression/578.phpt
+END

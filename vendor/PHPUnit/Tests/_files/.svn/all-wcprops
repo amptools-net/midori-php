@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files
+END
+Calculator.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/Calculator.php
+END
+TestIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TestIterator.php
+END
+NotPublicTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NotPublicTestCase.php
+END
+NoTestCases.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NoTestCases.php
+END
+TearDownFailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TearDownFailure.php
+END
+structureExpected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureExpected.xml
+END
+structureWrongNumberOfAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureWrongNumberOfAttributes.xml
+END
+OutputTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/OutputTestCase.php
+END
+CoverageMethodTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageMethodTest.php
+END
+PartialMockTestClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/PartialMockTestClass.php
+END
+foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/foo.xml
+END
+NonStatic.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NonStatic.php
+END
+ConcreteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/ConcreteTest.php
+END
+AbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/AbstractTest.php
+END
+CoverageProtectedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageProtectedTest.php
+END
+SetupFailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/SetupFailure.php
+END
+SleepTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/SleepTest.php
+END
+TornDown.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TornDown.php
+END
+structureIgnoreTextNodes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureIgnoreTextNodes.xml
+END
+OneTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/OneTestCase.php
+END
+structureWrongNumberOfNodes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureWrongNumberOfNodes.xml
+END
+ThrowExceptionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/ThrowExceptionTestCase.php
+END
+SelectorAssertionsFixture.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/SelectorAssertionsFixture.html
+END
+MockRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/MockRunner.php
+END
+Failure.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/Failure.php
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/Error.php
+END
+CoveragePublicTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoveragePublicTest.php
+END
+TornDown2.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TornDown2.php
+END
+MethodCallback.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/MethodCallback.php
+END
+TornDown3.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TornDown3.php
+END
+structureIsSameButDataIsNot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureIsSameButDataIsNot.xml
+END
+NoTestCaseClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NoTestCaseClass.php
+END
+TornDown4.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TornDown4.php
+END
+TornDown5.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/TornDown5.php
+END
+NoArgTestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NoArgTestCaseTest.php
+END
+FunctionCallback.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/FunctionCallback.php
+END
+CoverageClassExtendedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageClassExtendedTest.php
+END
+DoubleTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/DoubleTestCase.php
+END
+InheritedTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/InheritedTestCase.php
+END
+CoverageNotPrivateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageNotPrivateTest.php
+END
+SampleClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/SampleClass.php
+END
+Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/Success.php
+END
+OverrideTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/OverrideTestCase.php
+END
+CoverageNotPublicTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageNotPublicTest.php
+END
+ThrowNoExceptionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/ThrowNoExceptionTestCase.php
+END
+CoveredClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoveredClass.php
+END
+bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/bar.xml
+END
+NotVoidTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/NotVoidTestCase.php
+END
+AnInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/AnInterface.php
+END
+WasRun.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/WasRun.php
+END
+configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/configuration.xml
+END
+CoverageClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageClassTest.php
+END
+ClassWithNonPublicAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/ClassWithNonPublicAttributes.php
+END
+structureAttributesAreSameButValuesAreNot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/structureAttributesAreSameButValuesAreNot.xml
+END
+Struct.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/Struct.php
+END
+DataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/DataSetTest.php
+END
+CoverageNotProtectedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoverageNotProtectedTest.php
+END
+CoveragePrivateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/_files/CoveragePrivateTest.php
+END

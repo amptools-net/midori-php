@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Report/Node
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Report/Node/File.php
+END
+Directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Report/Node/Directory.php
+END

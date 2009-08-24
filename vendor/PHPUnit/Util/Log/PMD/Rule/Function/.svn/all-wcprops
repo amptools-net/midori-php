@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function
+END
+ExcessiveParameterList.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/ExcessiveParameterList.php
+END
+ExcessiveMethodLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/ExcessiveMethodLength.php
+END
+CRAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/CRAP.php
+END
+CyclomaticComplexity.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/CyclomaticComplexity.php
+END
+CodeCoverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/CodeCoverage.php
+END
+NPathComplexity.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Util/Log/PMD/Rule/Function/NPathComplexity.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub
+END
+ReturnCallback.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/ReturnCallback.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/Exception.php
+END
+MatcherCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/MatcherCollection.php
+END
+Return.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/Return.php
+END
+ReturnArgument.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/ReturnArgument.php
+END
+ConsecutiveCalls.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub/ConsecutiveCalls.php
+END

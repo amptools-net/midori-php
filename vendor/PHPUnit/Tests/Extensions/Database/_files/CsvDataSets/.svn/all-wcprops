@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/CsvDataSets
+END
+table1.csv
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/CsvDataSets/table1.csv
+END
+table2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/CsvDataSets/table2.csv
+END

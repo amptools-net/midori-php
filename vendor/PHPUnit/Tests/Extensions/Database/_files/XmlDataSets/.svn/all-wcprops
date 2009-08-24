@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets
+END
+DeleteOperationResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/DeleteOperationResult.xml
+END
+DeleteOperationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/DeleteOperationTest.xml
+END
+AllEmptyTableInsertResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/AllEmptyTableInsertResult.xml
+END
+InsertOperationResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/InsertOperationResult.xml
+END
+AllEmptyTableInsertTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/AllEmptyTableInsertTest.xml
+END
+InsertOperationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/InsertOperationTest.xml
+END
+FilteredTestComparison.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/FilteredTestComparison.xml
+END
+RowBasedExecute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/RowBasedExecute.xml
+END
+OperationsTestFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/OperationsTestFixture.xml
+END
+EmptyTableInsertResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/EmptyTableInsertResult.xml
+END
+ReplaceOperationResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/ReplaceOperationResult.xml
+END
+EmptyTableInsertTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/EmptyTableInsertTest.xml
+END
+ReplaceOperationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/ReplaceOperationTest.xml
+END
+XmlWriter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/XmlWriter.xml
+END
+UpdateOperationResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/UpdateOperationResult.xml
+END
+UpdateOperationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/UpdateOperationTest.xml
+END
+FlatXmlWriter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/FlatXmlWriter.xml
+END
+FilteredTestFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/FilteredTestFixture.xml
+END
+XmlDataSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/XmlDataSet.xml
+END
+QueryDataSetTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/QueryDataSetTest.xml
+END
+DeleteAllOperationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/DeleteAllOperationTest.xml
+END
+FlatXmlDataSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/_files/XmlDataSets/FlatXmlDataSet.xml
+END

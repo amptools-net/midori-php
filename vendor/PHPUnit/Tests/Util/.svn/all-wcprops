@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util/AllTests.php
+END
+TestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util/TestTest.php
+END
+TimerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util/TimerTest.php
+END
+XMLTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util/XMLTest.php
+END
+ConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Util/ConfigurationTest.php
+END

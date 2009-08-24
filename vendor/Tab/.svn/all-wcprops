@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab
+END
+DefaultLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/DefaultLoader.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/File.php
+END
+TaskArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/TaskArgs.php
+END
+FileUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/FileUtils.php
+END
+Task.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/Task.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/Application.php
+END
+Tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/Tasks.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/Object.php
+END
+Tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/Tab/Tab.php
+END

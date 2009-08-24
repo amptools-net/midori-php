@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet
+END
+XmlDataSetsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/XmlDataSetsTest.php
+END
+PersistorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/PersistorTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/AllTests.php
+END
+QueryDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/QueryDataSetTest.php
+END
+QueryTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/QueryTableTest.php
+END
+CsvDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/CsvDataSetTest.php
+END
+FilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/FilterTest.php
+END
+ReplacementDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/ReplacementDataSetTest.php
+END
+ReplacementTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/ReplacementTableTest.php
+END
+CompositeDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Extensions/Database/DataSet/CompositeDataSetTest.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework
+END
+SuiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/SuiteTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/AllTests.php
+END
+TestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/TestCaseTest.php
+END
+TestImplementorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/TestImplementorTest.php
+END
+MockObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/MockObjectTest.php
+END
+AssertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/AssertTest.php
+END
+ComparisonFailureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/ComparisonFailureTest.php
+END
+ConstraintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/ConstraintTest.php
+END
+TestListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/TestListenerTest.php
+END
+TestFailureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Tests/Framework/TestFailureTest.php
+END

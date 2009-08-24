@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject
+END
+Invocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Invocation.php
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Mock.php
+END
+InvocationMocker.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/InvocationMocker.php
+END
+Invokable.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Invokable.php
+END
+Stub.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Stub.php
+END
+MockObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/MockObject.php
+END
+Matcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Matcher.php
+END
+Verifiable.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Framework/MockObject/Verifiable.php
+END

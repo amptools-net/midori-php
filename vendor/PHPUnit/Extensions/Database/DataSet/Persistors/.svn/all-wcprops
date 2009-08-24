@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Database/DataSet/Persistors
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Database/DataSet/Persistors/Xml.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Database/DataSet/Persistors/Abstract.php
+END
+FlatXml.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/osc/newswise/!svn/ver/1017/trunk/src/vendor/PHPUnit/Extensions/Database/DataSet/Persistors/FlatXml.php
+END
