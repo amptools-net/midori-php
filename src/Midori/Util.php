@@ -19,6 +19,11 @@ namespace
 			return new Midori\String($value);		
 		}
 		
+		function int($value)
+		{
+			return new Midori\Integer($value);
+		}
+		
 		function regex($pattern)
 		{
 			return new Midori\Regex($pattern);		
@@ -32,6 +37,23 @@ namespace
 		return $value;
 	}
 	
+	function arrayOf()
+	{
+		$args = func_get_args();
+		return new Midori\ArrayOf($args);
+	}
+	
+	function box_list()
+	{
+		return new Midori\ListOf(func_get_args());		
+	}
+	
+	function box_array()
+	{
+		return new Midori\ArrayOf(func_get_args());
+	}
+	
+	
 	function box_str($value)
 	{
 		return new Midori\String($value);		
@@ -40,6 +62,11 @@ namespace
 	function box_regex($value)
 	{
 		return new Midori\Regex($value);		
+	}
+	
+	function box_int($value)
+	{
+		return new Midori\Integer($value);		
 	}
 
 }
@@ -72,5 +99,7 @@ namespace Midori
 	{
 		return new Regex($pattern);		
 	}
+	
+	
 	
 }
