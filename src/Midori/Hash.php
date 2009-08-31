@@ -8,8 +8,7 @@ namespace Midori
 		
 		
 		public function __construct($args = array())
-		{
-				
+		{				
 			$this->items = $args;	
 		}
 		
