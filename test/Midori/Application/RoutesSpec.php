@@ -13,9 +13,7 @@ namespace Midori\Application
 		public function itShouldDrawRoutes()
 		{
 			Routes::draw(function($map){
-				
 				$map->addRoute("test", ":controller/:action/:id");
-				
 				$map->blog("blog/:action/:id");
 			});	
 			
