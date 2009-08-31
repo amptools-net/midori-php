@@ -22,7 +22,7 @@ namespace Midori\PHPUnit
 		 *
 		 * @return Midori\PHPUnit\Expect
 		 */
-		protected function expectsThat($data, $message = null)
+		public function expectsThat($data, $message = null)
 		{
 			if($this->expectation == null)
 				$this->expectation = new Expect();

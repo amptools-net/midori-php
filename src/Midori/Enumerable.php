@@ -170,7 +170,7 @@ namespace Midori
 		/**
 		 * 
 		 * 
-		 * returns Midori_Enumerator
+		 * returns Enumerator
 		 */
 		public function getIterator() 
 		{

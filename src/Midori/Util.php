@@ -43,6 +43,11 @@ namespace
 		return new Midori\ArrayOf($args);
 	}
 	
+	function listOf()
+	{
+		return new Midori\ListOf(func_get_args());		
+	}
+	
 	function box_list()
 	{
 		return new Midori\ListOf(func_get_args());		
@@ -99,7 +104,5 @@ namespace Midori
 	{
 		return new Regex($pattern);		
 	}
-	
-	
 	
 }
