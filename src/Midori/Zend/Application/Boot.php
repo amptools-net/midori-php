@@ -30,6 +30,7 @@ namespace Midori\Zend\Application
 		
 		protected function startLayout()
 		{
+		
 			\Zend_Layout::startMvc(array());
 			$layout = \Zend_Layout::getMvcInstance();
 			$layout->setLayoutPath($this->config->paths->layout);
@@ -58,9 +59,6 @@ namespace Midori\Zend\Application
 			    $front->registerPlugin($error_plugin);
 			}
 		       
-		  
-			
-			
 		
 			$paths = $this->config->paths;
 			
@@ -77,7 +75,7 @@ namespace Midori\Zend\Application
 			
 			require MIDORI_ROOT."config/routes.php";
 			
-			$array = \Midori\Application\Routes::getRoutes();
+			$array = \Midori\Application\Routes::getAllRoutes();
 			
 			foreach($array as $name => $routes)
 			{
@@ -95,7 +93,7 @@ namespace Midori\Zend\Application
 		
 		protected function startView()
 		{
-			$view = \Midori\View::get();
+			$view = \Midori\Zend\View::get();
 			$view->setBasePath($this->config->paths->app);
 		
 			$viewRenderer = \Zend_Controller_Action_HelperBroker::getStaticHelper('viewRenderer');
@@ -112,5 +110,4 @@ namespace Midori\Zend\Application
 	}	
 	
 	\Midori\Registry::set("boot", new Boot());
-	
 }

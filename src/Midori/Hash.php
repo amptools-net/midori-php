@@ -87,7 +87,7 @@ namespace Midori
 		 */
 		public function offsetExists($key)
 		{
-			return isset($this->items[$key]);
+			return isset($this->items[$key]) == true;
 		}
 		
 		/**
@@ -99,9 +99,7 @@ namespace Midori
 		 */
 		public function offsetGet($key)
 		{
-			if(isset($this->items[$key]))
-				return $this->items[$key];
-			return null;
+			return $this->offsetExists($key) ? $this->items[$key] : null;	
 		}
 		
 		/**

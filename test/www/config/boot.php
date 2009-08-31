@@ -23,7 +23,7 @@ if(!defined("MIDORI_ENV"))
 	
 	function config()
 	{
-		return Midori\Vars::get("Midori/config");		
+		return Midori\Registry::get("Midori/config");		
 	}
 	
 	
@@ -38,12 +38,10 @@ if(!defined("MIDORI_ENV"))
 	}	
 	
 
-if(vendor())
-{
-	require_once  MIDORI_ROOT."vendor/Midori/Util.php";
-	require_once  MIDORI_ROOT."vendor/Midori/Application/Boot.php";
-	require_once  MIDORI_ROOT."vendor/Midori/Zend/Application/Boot.php";
-} 
+
+	require_once  "Midori/Util.php";
+	require_once  "Midori/Zend/Application/Boot.php";
+
 
 
 Midori\boot(MIDORI_SCRIPT === false);

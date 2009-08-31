@@ -19,7 +19,7 @@ namespace Midori\Data\Adapters\Pdo
 		protected function init($dsn, $username = null, $password = null, $options = array())
 		{
 			
-			$this->driver = new Pdo($dsn, $username, $password, $options);
+			$this->driver = new \Pdo($dsn, $username, $password, $options);
 			
 			$this->supportsLastId = true;
 		}
@@ -65,7 +65,7 @@ namespace Midori\Data\Adapters\Pdo
 			$this->log->sql($sql);
 			$statement = $this->driver->prepare($sql);
 			$statement->execute($params);
-			$list = new Midori_List();
+			$list = new \Midori\ListOf();
 			
 			 while ($object = $statement->fetchObject($class)) {
 			 	$object->markFetched();
@@ -86,13 +86,13 @@ namespace Midori\Data\Adapters\Pdo
 			if($this->allowsMultipleQueries)
 			{
 				do {
-		    		$sets[$i] = $statement->fetchAll(PDO::FETCH_ASSOC);
+		    		$sets[$i] = $statement->fetchAll(\PDO::FETCH_ASSOC);
 		    		$i++;
 				} while ($statement->nextRowset());
 			} 
 			else 
 			{
-				$sets[] = $statement->fetchAll(PDO::FETCH_ASSOC);
+				$sets[] = $statement->fetchAll(\PDO::FETCH_ASSOC);
 				$statement->closeCursor();
 			}
 			
@@ -169,7 +169,7 @@ namespace Midori\Data\Adapters\Pdo
 			try
 			{
 				
-				$sql = new Midori_String("INSERT INTO {$this->quoteIdentifier($table)} ");
+				$sql = new \Midori\String("INSERT INTO {$this->quoteIdentifier($table)} ");
 				$columns = new Midori_String(" (");
 				$fields = new Midori_String(" VALUES (");
 				foreach($values as $column => $field)
@@ -215,7 +215,7 @@ namespace Midori\Data\Adapters\Pdo
 			
 			try 
 			{
-				$sql = new Midori_String("UPDATE {$this->quoteIdentifier($table)} SET ");
+				$sql = new \Midori\String("UPDATE {$this->quoteIdentifier($table)} SET ");
 				
 				foreach($values as $column => $value)
 					$sql->append("\n\t{$this->quoteIdentifier($column)} = {$this->quote($value)},");

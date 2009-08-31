@@ -3,7 +3,7 @@
 namespace Midori\Data
 {
 			
-	
+	]
 	/**
 	 * 
 	 * @author Michael
@@ -29,6 +29,7 @@ namespace Midori\Data
 		
 		public static function fetch()
 		{
+			echo "test";
 			$args = func_get_args();
 			if(is_array($args[0]))
 				$array = $args[0];
@@ -37,7 +38,7 @@ namespace Midori\Data
 	
 			$type = $array[0];
 			$config = $array[1];
-			$class = "Midori\\Data\\Adapters\\".$type."Adapter";
+			$class = "Midori\\Data\\Adapters\\".box_str($type)->replace("_", "\\")."Adapter";
 			return new $class($config);
 		}
 		
@@ -54,7 +55,7 @@ namespace Midori\Data
 	
 		protected function initLogger()
 		{
-			$this->log = Midori_Log_Logger::getInstance();
+			//$this->log = Midori_Log_Logger::getInstance();
 		}
 		
 		public function getAllowsMultipleQueries()
@@ -200,7 +201,7 @@ namespace Midori\Data
 	 			$class = $options['class'];	
 	 			$includes = $options["includes"];
 	 			
-	 			throw new InvalidArgumentException("includes is not yet ready, but comming.");
+	 			throw new \InvalidArgumentException("includes is not yet ready, but comming.");
 	 		} 
 	 		else 
 	 		{
@@ -388,7 +389,7 @@ namespace Midori\Data
 			if($value == null)
 				return "NULL";
 	
-			if($value instanceof Midori_Nullable)
+			if($value instanceof \Midori\Nullable)
 			{
 				$type = get_class($value);
 				

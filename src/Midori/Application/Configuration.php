@@ -56,7 +56,7 @@ namespace Midori\Application
 		protected function getPaths()
 		{
 			$this->paths					= new \stdClass();	
-			$root = $this->paths->root 		= \Midori\root();
+			$root = $this->paths->root 		= MIDORI_ROOT;
 			$this->paths->lib 				= $root."lib/";
 			$this->paths->vendor			= $root."vendor/";
 			$public = $this->paths->public			= $root."public/";

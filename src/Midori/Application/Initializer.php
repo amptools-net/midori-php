@@ -25,7 +25,7 @@ namespace Midori\Application
 		{
 			$this->_configuration = $configuration;
 			$this->init();
-			Vars::set("Midori/config", $this->_configuration);
+			Registry::set("Midori/config", $this->_configuration);
 		}
 		
 		protected function init()

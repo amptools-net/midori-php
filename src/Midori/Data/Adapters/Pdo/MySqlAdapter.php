@@ -38,18 +38,14 @@ namespace Midori\Data\Adapters\Pdo
 				$options[\PDO::MYSQL_ATTR_INIT_COMMAND] = "SET NAMES utf8";
 			//$options[PDO::MYSQL_ATTR_USE_BUFFERED_QUERY] = true;
 			
-			$this->driver = new PDO(rtrim($dsn, ";"), $username, $password, $options);
-			$this->driver->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-			$this->driver->setAttribute(PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, true);
+			$this->driver = new \PDO(rtrim($dsn, ";"), $username, $password, $options);
+			$this->driver->setAttribute(\PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+			$this->driver->setAttribute(\PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, true);
 			
-			$env = Midori_Environment::getInstance();
+			
 			
 			//$this->driver->getConnection()->exec("SET NAMES utf8");
 			$this->execute("SET NAMES utf8");
-			
-			if($env->os == "WINNT" && ( ($env->phpVersion != "5.3.0beta1") && 
-				(version_compare($env->phpVersion, "5.3.0", "<"))))
-				$this->isMultipleQueriesAllowed = false;
 		}
 		
 		public function getAllowsMultipleQueries()
@@ -119,7 +115,7 @@ namespace Midori\Data\Adapters\Pdo
 				default:
 					if(is_null($limit))
 						return "int(11)";
-				throw new InvalidArgumentException("no integer type has byte size {$limit}");
+				throw new \InvalidArgumentException("no integer type has byte size {$limit}");
 			}
 		}
 		
@@ -128,8 +124,7 @@ namespace Midori\Data\Adapters\Pdo
 		{
 			if(self::$native_database_types == null)
 			{
-				$test = (Midori_Environment::getInstance()->env == "test");
-	
+		
 				$types = array(
 					'fixturepk'			=>  "int(11) DEFAULT NULL",
 					'primarykey'		=>	"int(11) DEFAULT NULL auto_increment ",
