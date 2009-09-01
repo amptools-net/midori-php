@@ -4,7 +4,7 @@
 class HomeController extends ApplicationController
 {
 
-	public function indexAction()
+	public function index()
 	{
 		echo   "TEst";
 			$this->_helper->layout()->disableLayout();

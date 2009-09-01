@@ -78,6 +78,17 @@ namespace Midori
 			return $this;
 		}
 		
+		public function hasherize($key)
+		{
+			$value = $this->offsetGet($key);	
+			if(is_array($value))
+			{
+				$hash = new Hash();
+				return $hash->merge($value);
+			}
+			return $value;
+		}
+		
 		/**
 		 * Determines if an item exists at the given offset
 		 * 
@@ -127,6 +138,11 @@ namespace Midori
 		public function offsetUnset($key)
 		{
 			unset($this->items[$key]);
+		}
+		
+		public function toArray()
+		{
+			return $this->items;
 		}
 		
 	}	
