@@ -8,6 +8,6 @@ else
 Midori\Application\Initializer::run($env, function($config){
 	
 	$config->dateFormat = 'n/j/Y g:i A T';
-	$config->timezone = "";
+	$config->timezone = "America/New_York";
 	$config->updateUrls();
 });

@@ -3,7 +3,7 @@
 namespace Midori\Data
 {
 			
-	]
+	
 	/**
 	 * 
 	 * @author Michael
@@ -29,7 +29,6 @@ namespace Midori\Data
 		
 		public static function fetch()
 		{
-			echo "test";
 			$args = func_get_args();
 			if(is_array($args[0]))
 				$array = $args[0];
@@ -38,10 +37,13 @@ namespace Midori\Data
 	
 			$type = $array[0];
 			$config = $array[1];
-			$class = "Midori\\Data\\Adapters\\".box_str($type)->replace("_", "\\")."Adapter";
+			$type = box_str($type)->replace("_", "\\");
+			
+			
+			$class = "Midori\\Data\\Adapters\\".$type."Adapter";
+			
 			return new $class($config);
 		}
-		
 		
 		protected function getDatabaseName()
 		{
@@ -55,6 +57,7 @@ namespace Midori\Data
 	
 		protected function initLogger()
 		{
+			$this->log = config()->log;
 			//$this->log = Midori_Log_Logger::getInstance();
 		}
 		
@@ -439,4 +442,6 @@ namespace Midori\Data
 		{
 			return $value; 
 		}
+		
 	}
+}

@@ -27,6 +27,13 @@ namespace Midori\Zend\Application
 	class Boot extends \Midori\Application\Boot
 	{
 		
+		protected function startLog()
+		{
+			$writer = new \Zend_Log_Writer_Stream('php://stdout');
+			$logger = new \Zend_Log($writer);		
+			$logger->addPriority("sql", 8);
+			$this->config->log = $logger;
+		}
 		
 		protected function startLayout()
 		{

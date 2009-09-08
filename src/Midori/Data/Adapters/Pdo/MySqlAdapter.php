@@ -33,13 +33,13 @@ namespace Midori\Data\Adapters\Pdo
 			unset($options["username"], $options["password"]);
 	
 			//$options[ PDO::ATTR_PERSISTENT ] = true;
-			$options[PDO::ATTR_AUTOCOMMIT] = 0;
-			if(defined("PDO::MYSQL_ATTR_INIT_COMMAND"))
+			$options[\PDO::ATTR_AUTOCOMMIT] = 0;
+			if(defined("\PDO::MYSQL_ATTR_INIT_COMMAND"))
 				$options[\PDO::MYSQL_ATTR_INIT_COMMAND] = "SET NAMES utf8";
 			//$options[PDO::MYSQL_ATTR_USE_BUFFERED_QUERY] = true;
 			
 			$this->driver = new \PDO(rtrim($dsn, ";"), $username, $password, $options);
-			$this->driver->setAttribute(\PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+			$this->driver->setAttribute(\PDO::ATTR_ERRMODE, \PDO::ERRMODE_EXCEPTION);
 			$this->driver->setAttribute(\PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, true);
 			
 			

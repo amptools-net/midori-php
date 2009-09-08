@@ -32,6 +32,8 @@ namespace Midori\Application
 		{
 			$paths = $this->_configuration->include_paths;
 			set_include_path(implode(PATH_SEPARATOR, $paths).PATH_SEPARATOR.get_include_path());
+			
+			date_default_timezone_set($this->_configuration->timezone);
 		}
 		
 		public static function run($environment, $block)

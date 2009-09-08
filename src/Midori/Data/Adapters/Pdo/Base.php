@@ -2,7 +2,7 @@
 	
 
 namespace Midori\Data\Adapters\Pdo	
-	
+{
 	/**
 	 * 
 	 * @author Michael

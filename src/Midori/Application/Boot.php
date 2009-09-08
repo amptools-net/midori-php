@@ -33,17 +33,23 @@ namespace Midori\Application
 		{
 			require File::join(MIDORI_ROOT."config", "environment.php");	
 			$this->config = \Midori\config();
+			$this->startLog();
 			$this->startDataAccess();
 			$this->startLayout();
 			$this->startView();
 			$this->startDispatcher();
 		}
 		
+		protected function startLog()
+		{
+				
+		}
+		
 		protected function startDataAccess()
 		{
 		
 			$config = $this->config;
-			//$this->config->dataAdapter =  \Midori\Data\Adapter::fetch($config->databaseAdapter, $config->database);
+			$this->config->dataAdapter =  \Midori\Data\Adapter::fetch($config->databaseAdapter, $config->database);
 			
 		}
 		
