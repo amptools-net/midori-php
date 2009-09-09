@@ -1,6 +1,0 @@
-Options +FollowSymLinks 
-RewriteEngine On
-
-RewriteRule resource-handler.php(.*) resource-handler.php$1 [L]
-RewriteRule ^(.*)cdn(.*)$ resource-handler.php [L]
-RewriteRule !\.(js|ico|gif|jpg|jpeg|png|css|html|pdf|swf|xap|txt|JPG|JPEG|PNG|GIF)$ index.php

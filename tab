@@ -1,3 +1,0 @@
-#!/opt/local/bin/php
-<?php
-require "vendor/Tab/Tab.php";

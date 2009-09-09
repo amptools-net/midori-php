@@ -1,0 +1,216 @@
+/* Eric Meyers Reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+/*	font-size: 107%;*/
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+body {
+	line-height: 1;
+	color: #333;
+	background: white;
+	font-family: Segeo UI, Verdana, Helvetica, Arial;
+}
+
+ol, ul {
+	list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+caption, th, td {
+/*	text-align: left; */
+	font-weight: normal;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+
+blockquote, q {
+	quotes: '"' '"' "'" "'";
+}
+
+.section,
+.article,
+.nav, 
+table {
+	font-size: 85%;
+}
+
+.section h1,
+.article h1 {
+	font-size: 140%;
+	font-weight: bold;
+}
+
+.section h2,
+.article h2 {
+	font-size: 120%;
+}
+
+.section h3,
+.article h3 {
+	font-size: 110%;
+}
+
+.section h4,
+.article h4 {
+	font-size: 100%;
+}
+
+.section h5,
+.article h5 {
+	font-size: 90%;
+}
+
+
+.section h6,
+.article h6 {
+	font-size: 80%;
+}
+
+nav ul,
+.nav ul {
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+nav ul li,
+.nav ul li {
+	background: transparent;
+	float: left;
+	position: relative; 
+}
+
+nav a,
+.nav a {
+	display: block;
+	float: left;	
+}
+
+.error {
+	color: #cc0000;	
+}
+
+.debug-info {
+	margin: 20px 0px;	
+}
+.debug-info h3 {;
+	margin: 10px 0px;	
+}
+
+.column {
+	float: left;
+	overflow: visible;
+}
+
+.section {
+	margin-bottom: 25px;
+	clear: both;
+	overflow: hidden;
+	float: left;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #00283d;
+}
+
+h1, h2 {
+	text-transform: capitalize;
+}
+
+a:hover, a:active {
+	color: #007eec;
+}
+
+p {
+	margin: 10px 0px;
+	text-indent: 15px;
+}
+
+pre { 
+	background: #000; 
+	color: #fff;
+	 padding: 15px;
+}
+
+ul.list li {
+	list-style-type: disc;
+	list-style-position: outside;
+	float: left;
+	clear: both;
+	margin: 3px 8px 3px 20px;
+}
+
+ul.list {
+	width: 100%;
+	float: left;
+}
+
+#header {
+	height: 85px;
+	background: transparent url(images/layout/header-background.png) repeat-x;
+	width: 100%;
+}
+#header h1 a {
+	background: transparent url(images/layout/logo.png) no-repeat;
+	height: 85px;
+	width: 630px;
+	display: block;
+	float: left;	
+}
+
+.download {
+	position: absolute;
+	top: 10px;
+	right: 100px;
+}
+
+#header h1 a span {
+	display: none;
+}
+
+#body .column {
+	margin: 10px;
+	padding: 10px;
+}
+
+#body .column.main {
+	margin-right: 300px;
+	overflow: hidden;	
+}
+
+#body .column.aside {
+	position: absolute;
+	top: 100px;
+	right: 0;
+	margin-right: 0px;
+	width: 250px;
+	background: #ccc;
+}
